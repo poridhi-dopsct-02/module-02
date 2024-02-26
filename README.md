@@ -1,6 +1,10 @@
 ﻿## Module 2 Networking Project
 **Project Description:** Make two network namespaces using 'red' and 'green' names, connect them with a bridge, and check connectivity. You have to successfully ping Google's public IP from those network namespaces.
 ## Work Through
+
+![img](diagram.png#center)
+*A simple diagram to visualize what we we'll do in this project*
+
 **Step-0:** Install necessary packages or tools in Linux machine using following command
 
     sudo apt-get update
